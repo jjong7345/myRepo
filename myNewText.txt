@@ -4,6 +4,7 @@ new line.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 What is going on repo2?
 
 hahaha
@@ -15,3 +16,6 @@ JONG
 
 Park
 >>>>>>> more+
+=======
+JONG
+>>>>>>> Revert "more+"
