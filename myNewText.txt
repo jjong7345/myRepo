@@ -2,6 +2,10 @@ this is new text file.
 
 new line.
 
+<<<<<<< HEAD
 What is going on repo2?
 
 hahaha
+=======
+JONG
+>>>>>>> More
