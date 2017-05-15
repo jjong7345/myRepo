@@ -2,26 +2,6 @@ this is new text file.
 
 new line.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-What is going on repo2?
-
-hahaha
-=======
-JONG
->>>>>>> More
-=======
-JONG
-
-Park
->>>>>>> more+
-=======
-JONG
->>>>>>> Revert "more+"
-=======
 JONG
 
 PARK
->>>>>>> more++
