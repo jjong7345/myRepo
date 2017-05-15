@@ -5,6 +5,7 @@ new line.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 What is going on repo2?
 
 hahaha
@@ -19,3 +20,8 @@ Park
 =======
 JONG
 >>>>>>> Revert "more+"
+=======
+JONG
+
+PARK
+>>>>>>> more++
